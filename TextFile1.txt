@@ -1,6 +1,6 @@
 This is text file 1. 
 
-Edit 1: helmine@sfu.ca
+Edit 1: paulb@sfu.ca
 
 Edit 2: branch1 edit
 
