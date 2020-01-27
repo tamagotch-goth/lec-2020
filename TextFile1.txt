@@ -2,7 +2,7 @@ This is text file 1.
 
 Edit 1: paulb@sfu.ca
 
-Edit 2: branch1 edit
+OfficeHour: 1:00PM - Monday
 
 
 Some other cool text for you
