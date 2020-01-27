@@ -5,8 +5,7 @@ Edit 1: paulb@sfu.ca
 Edit 2: branch1 edit
 
 
-BR2
-
+Some other cool text for you
 
 
 Pretend that this is important html that I have mae for you. This is gut. 
